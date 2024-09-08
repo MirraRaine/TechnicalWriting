@@ -2,7 +2,7 @@
 
 <table border="0">
  <tr>
-    <td style="width:30%"><img src=".attachments/user_persona.jpg"/>
+    <td style="width:30%"><img src=".attachments/user_persona.jpg" width="250"/>
     </td>
     <td style="width:70%"><b>Name</b>: Annie Chen </br> <b>Age</b>: 36 </br> <b>Education</b>: Master’s degree in computer science </br> <b>Role</b>: Microsoft Teams Administrator </br> <b>Location</b>: Seattle, WA</td>
  </tr>
