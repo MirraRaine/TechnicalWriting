@@ -7,12 +7,12 @@ The goal of this project is to demonstrate my capability to produce various type
 
 ## Content
 
-1. [USER PERSONA: ANNIE CHEN, TEAMS ADMINISTRATOR WITH MICROSOFT GRAPH EXPERTISE](graph-call-records-api-user-persona.md)
-2. [API: MICROSOFT GRAPH CALL RECORDS API](graph-call-records-api.md)
-3. [TUTORIAL: STEP-BY-STEP CALL RECORD SCENARIO INTERPRETATION](graph-call_records_api_tutorial-p2p-scenario.md)
-4. [PRODUCT MANUAL: HOW TO RETRIEVE ALL PARTICIPANTS WHO ATTENDED A CALL0](graph-call-records-api_manual_participants.md)
-5. [HIGH-LEVEL ARCHITECTURE AND OUTAGE RESPONSE GUIDE](graph-call-records-high-level-architecture.md)
-6. [FAQ: FREQUENTLY ASKED QUESTIONS](graph-call-records-api-faq.md)
+1. [USER PERSONA: ANNIE CHEN, TEAMS ADMINISTRATOR WITH MICROSOFT GRAPH EXPERTISE](GraphCallRecordsAPI/graph-call-records-api-user-persona.md)
+2. [API: MICROSOFT GRAPH CALL RECORDS API](GraphCallRecordsAPI/graph-call-records-api.md)
+3. [TUTORIAL: STEP-BY-STEP CALL RECORD SCENARIO INTERPRETATION](GraphCallRecordsAPI/graph-call_records_api_tutorial-p2p-scenario.md)
+4. [PRODUCT MANUAL: HOW TO RETRIEVE ALL PARTICIPANTS WHO ATTENDED A CALL0](GraphCallRecordsAPI/graph-call-records-api_manual_participants.md)
+5. [HIGH-LEVEL ARCHITECTURE AND OUTAGE RESPONSE GUIDE](GraphCallRecordsAPI/graph-call-records-high-level-architecture.md)
+6. [FAQ: FREQUENTLY ASKED QUESTIONS](GraphCallRecordsAPI/graph-call-records-api-faq.md)
 
 ## PDF Format
 
